@@ -1,2 +1,3 @@
 put the templates that aren't quite working in here:
 -issue template
+-pull request template
